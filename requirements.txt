@@ -1,0 +1,13 @@
+pandas
+uvicorn
+fastapi
+scikit-learn
+glob2
+pypickle
+nltk
+# Extra - The following section used for additional analysis.
+matplotlib
+fasttext
+pot
+tqdm
+xlsxwriter
